@@ -1,7 +1,4 @@
 # Building a Website with Node & ExpressJS
-This is the repository for my course, [Building a Website with Node & ExpressJS](). The full course will be available at [lynda.com](http://lynda.com).
-- [My Personal Website](http://raybo.org)
-
 
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage. Or you can simply add `/tree/BRANCH_NAME` to the URL to go to the branch you want to peek at.
